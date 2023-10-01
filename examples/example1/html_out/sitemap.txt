@@ -1,0 +1,6 @@
+https://examplewebsite/index.html
+https://examplewebsite/topic1/page1.html
+https://examplewebsite/topic1/page2.html
+https://examplewebsite/topic1/page3.html
+https://examplewebsite/topic2/t2_page1.html
+https://examplewebsite/topic2/t2_page2.html
